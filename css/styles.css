@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #0B0000;
 }
 
 .biography-details li, .skill-list li {
@@ -60,12 +60,38 @@ body {
 border-color: black !important
 }
 h5 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	font-size: 28px 
-
+	font-family: carbon,sans-serif;
+font-weight: 400;
+font-style: normal;
+	font-size: 21px ;
+	color: black;
+	
 }
 h1 {
 	font-family: cambo ;
 	font-size: 48px ;
 	color:white ;
+	text-shadow: 5px 5px #000000;
 }
+h2 {
+	font-family: CHERRY "cherry-cream-soda" ;
+	font-size: 24px 
+}
+ul {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif" ;
+	font-size: 18px 
+}
+h6 { 
+font-family: carbon,sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 22px;
+color: white
+}
+h4 {
+	font-family: cambo ;
+	font-size: 24px ;
+	color:black;
+}
+a {
+	color: black; } 
